@@ -4,6 +4,7 @@ export default function Page() {
   return (
     <>
       <Header text="Web" />
+      Hello Worlds
       <Button />
     </>
   );
